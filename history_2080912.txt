@@ -1,0 +1,88 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls-l
+    4  pwd
+    5  ls
+    6  ls- l
+    7  ls-l
+    8  ls -l
+    9  ls -a
+   10  cd /music
+   11  cd Music
+   12  man ls
+   13  ls -la
+   14  cd .
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  cd..
+   19  cd ..
+   20  ls- la
+   21  ls -la
+   22  pwd
+   23  cd /home/user
+   24  pwd
+   25  cd /
+   26  pwd
+   27  cd ~
+   28  pwd
+   29  cd ~/
+   30  cd ~/pwd
+   31  pwd
+   32  cd /
+   33  mkdir ManaMape
+   34  cd
+   35  mkdir ManaMape
+   36  ls -l
+   37  cd ManaMape/
+   38  pwd
+   39  ls
+   40  cd..
+   41  cd ..
+   42  emdir ManaMape/
+   43  ls -l
+   44  rmdir ManaMape/
+   45  ls
+   46  mkdir Manamape
+   47  ls
+   48  mkdir Manaapaksmape
+   49  ls
+   50  cd Manamape
+   51  mkdir Manaapaksmape
+   52  ls
+   53  cd ..
+   54  man rm
+   55  rm -r Manamape
+   56  cd
+   57  ls
+   58  rm -r Manamape
+   59  ls
+   60  rm -r Manaapaksmape/
+   61  ls
+   62  echo "Teksts"
+   63  echo "Cits teksts"
+   64  man echo
+   65  echo -e "Teksts\nCits teksts"
+   66  echo "Teksts" > fails.txt
+   67  ls
+   68  cat fails.txt
+   69  echo "Cits teksts" > fails.txt
+   70  cat fails.txt
+   71  ls -l
+   72  cp fails.txt fails1.txt
+   73  ls
+   74  mv *.txt Music/
+   75  ls -l
+   76  ls
+   77  cd Music/
+   78  ls
+   79  cd ~
+   80  mv fails1.txt fails31.txt
+   81  cd
+   82  ls
+   83  cd Music/
+   84  ls
+   85  mv faisls.txt fails31.txt
+   86  cd ..
+   87  ls
+   88  history >history_2080912.txt
