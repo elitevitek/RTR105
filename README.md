@@ -15,3 +15,14 @@ uname- uz kadas virsmas strada
 who -user nosaukums
 clear- atira visu
 echo $0- var apskatit kads tev komandas tips bash vai shell
+mkdir -veido mapi
+rmdir -dzes mapi
+echo "Teksts" > fails.txt veido failu
+cat fails.txt lasa failu
+echo "Teksts" >>fails.txt papild teksts
+chmod 400 fails.txt maina dostup k failu
+Nano teksta redaktors
+cp -kopesana
+mv*.txt Music/ perenos vsex tekstovix failov
+rm -delete
+cd ieej mape
