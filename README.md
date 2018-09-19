@@ -26,3 +26,12 @@ cp -kopesana
 mv*.txt Music/ perenos vsex tekstovix failov
 rm -delete
 cd ieej mape
+hmod 400 fails1.txt
+chmod 700 fails1.txt
+echo "Teksts" > ../fails1.txt
+nano fails1.txt - teksta redaktors
+cp fails1.txt fails3.txt - kopē ar visiem tiesībam
+mv *.txt Music/- pārvietot visus txt failus
+mv *.txt ../ - pārvietot visus txt failus uz līmeņu augstak
+mv fails1.txt fails31.txt - pārsaukt failu
+rm 3.txt - dzēst visus failus, kur ir 3.
