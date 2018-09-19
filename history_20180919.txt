@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape" > mans_skripts.sh
+    4  nano mans_skripts.sh
+    5  echo $PATH
+    6  pwd
+    7  PATH=PATH:~
+    8  echo &PATH
+    9  PATH=$PATH:~
+   10  echo $PATH
+   11  ls -l
+   12  ls
+   13  ls -l
+   14  mans_skripts.sh
+   15  ls
+   16  mans_skripts.sh
+   17  PATH=$PATH:~
+   18  echo $PATH
+   19  mans_skripts.sh
+   20  chmod
+   21  chmod 764 mans_skripts.sh
+   22  mans_skripts.sh
+   23  ls -l
+   24  nano mans_skripts.sh 
+   25  mans_skripts.sh 
+   26  git clone https://github.com/elitevitek/RTR105
+   27  LS
+   28  ls -l
+   29  ~/RTR105$ pwd
+   30  cd/home/user/RTR105
+   31  cd /home/user/RTR105
+   32  nano readme
+   33  nano README.md 
+   34  git clone https://github.com/elitevitek/RTR105
+   35  pwd
+   36  ls -l
+   37  nano git-upload
+   38  ls -l
+   39  chmod 764 git-upload 
+   40  ls -l
+   41  history > history_20180919.txt
