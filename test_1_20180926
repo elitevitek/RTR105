@@ -1,0 +1,7 @@
+mans_mainiigais = input("Cienījamais lietotāj, lūdzu ievadi skaitlis: ")
+
+x = mans_mainiigais * mans_mainiigais
+
+# http://www.cplusplus.com/reference/cstdin/printf/
+print("Lietotāj, TU esi Ievadījis vērtibu: %.4f"%(mans_mainiigais))
+print("Kā arī tagad atmiņā ir ari x = %.3f"%(x))
